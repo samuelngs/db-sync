@@ -1,0 +1,10 @@
+node_modules
+docs 
+dist 
+tmp 
+logs
+log 
+*.log 
+.DS_Store 
+.vagrant
+config.json

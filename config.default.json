@@ -1,0 +1,17 @@
+{
+	"source": {
+		"db_host": "",
+		"db_user": "",
+		"db_pass": "",
+		"db_port": "",
+		"db_name": ""
+	},
+	"dist": {
+		"db_host": "",
+		"db_user": "",
+		"db_pass": "",
+		"db_port": "",
+		"db_name": ""
+	},
+	"sync": [ ]
+}

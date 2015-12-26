@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Build application using nexe
+# nexe -f true -t './.node' -r '0.12.4' -i index.js -o ./bin/bsync
+
+# Build application using JXCore
+jx package index.js "./bin/bsync" -native
+
+# Build application using nw.js
+# ./nw .
